@@ -8,6 +8,9 @@
 </head>
 <body>
 
-<h1>Bienvenido a Mi Sitio Web, <c:out value="${name}" /></h1>
+<h1>Bienvenido a Mi Sitio Web</h1>
+<p>Login: ${count}</p>
+<a href="/user/hora">Ver la Hora</a>
+<a href="/user/fecha">Ver la Fecha</a>
 </body>
 </html>

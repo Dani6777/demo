@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Fecha</title>
-    <script type="text/javascript" src="static/js/app.js"></script>
+    <script type="text/javascript" src="/js/fecha.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/fecha.css">
 </head>
 <body>
     <p>La fecha actual es: ${fecha}</p>
